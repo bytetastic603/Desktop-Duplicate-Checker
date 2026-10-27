@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run chr(34) & "C:\Users\attab003\OneDrive - Ministry for Education, Sport, Youth, Research and Innovation\Desktop\Duplicate Checker files\Duplicate check.bat" & chr(34), 0, False
